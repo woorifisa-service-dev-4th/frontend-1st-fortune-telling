@@ -9,8 +9,8 @@
 
 ## 🖥️ 기획- (Figma)
 ### 1. 이미지
-<img src="https://github.com/user-attachments/assets/559cd795-28f7-4d56-bc74-4e870963826a" width="300" height="400"/>
-<img src="https://github.com/user-attachments/assets/dc3c7979-f7b9-4f32-bcfd-d67aeb4375fe" width="300" height="400"/>
+<img width="1440" alt="index html" src="https://github.com/user-attachments/assets/fd6bde66-e0d8-41c3-a1ca-92e85a3357f6" />
+<img width="1440" alt="result html" src="https://github.com/user-attachments/assets/16866218-929b-4f3a-9586-c41f47dcf677" />
 <br>
 
 ### 2. css 적용

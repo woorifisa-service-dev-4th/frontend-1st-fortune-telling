@@ -1,0 +1,141 @@
+/* 전체 페이지 스타일 */
+
+html{
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background: rgb(129,116,160);
+    background: linear-gradient( rgba(129,116,160,1) 0%,
+     rgba(168,136,181,1) 12%, rgba(239,182,200,1) 23%, 
+     rgba(255,210,160,1) 33%, rgba(249,249,249,1) 46%, 
+     rgba(255,255,255,1) 61%);
+     background-repeat: no-repeat; /* 배경 반복 방지 */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;*/
+    font-weight: bold;
+}
+
+/* backGroundColor */
+.bg_color_select{
+    background-color: #A888B5;
+ }
+
+ .bg_color_nonSelect{
+    background-color: #f9f9f9;
+ }
+
+ .bg_color_input{
+    background-color: #f9f9f9;
+ }
+
+ .bg_color_selectBox{
+    background-color: #fff;
+ }
+
+
+/* header */
+/* 헤더 컨테이너 */
+.container_header{
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 1%;
+    .main_title{
+        color: white;
+        font-size: 4em;
+        
+    }
+} 
+
+/* 바디 스타일 */
+/* 전체 section */
+.container_body {
+    p{
+        font-size: 2em;
+    }
+    display: flex;
+    justify-content: center;
+    .container_selectBox{
+        box-shadow: 0 2px 5px rgba(0, 0, 0.3, 0.5); /* 수평 0, 수직 2px, 흐림 5px, 색상 rgba(0, 0, 0, 0.1) */
+        width: 30%;
+        background-color :white;
+        border-radius: 10px;
+        padding: 30px;
+        /* 이름 입력 input */
+        .input_name{
+            width: 100%;
+            box-sizing: border-box;
+            height: 3.5em;
+            border: none;
+            background-color: #f9f9f9;
+            border-radius: 3%;
+            font-size: 1em;
+            padding-left:5%;
+        }
+
+        /* 음 양력 div*/
+        .container_button{
+            display: flex;
+            height: 2.5em;
+            text-align: center;
+            /* 음양력 선택 button*/
+            .calend_select{
+                flex: 1;
+                border-radius: 5%;
+                margin: 0 1%; /* 좌우 간격 */
+                border: none;
+                background-color: #f9f9f9;
+                font-size: 1.3em;
+            }
+            .calend_select:focus{
+                background-color: #A888B5;
+            }
+        }
+
+        /*생년월일 버튼 div*/
+        .container_date{
+            margin-bottom: 10%;
+            display: flex;
+            /* 생년월일 select 태그 */
+            .select_date{
+                flex: 1;
+                color: rgba(0, 0, 0, 0.6); /* 연한 블랙 텍스트 */
+                height: 3em;
+                border-radius: 5%;
+                margin: 0 1%; /* 좌우 간격 */
+                text-align: center;
+                font-size: 1em;
+            }
+        }
+
+        /* 운세확인하러가기 버튼 div*/
+        .container_result{
+            display: flex;
+            justify-content: center;
+            /* 운세확인하러가기 button*/
+            .result_box{ 
+                width: 100%;
+                height: 4em;
+                justify-content: center;
+                background-color: #A888B5;
+                color: white;
+                border: none;
+                font-size: 1em;
+            }
+        }
+
+    }
+   
+}
+
+.container_footer{
+    height: 40%;
+}
+

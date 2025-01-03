@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>오늘의 운세</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container_header">
+            <p class="main_title">2025 신년 운세</p>
+            <img src="img/fortune.png" alt="점봐주는 사람 이미지 입니다." style="width:300px;heigh:auto;">
+        </div>
+    </header>
+    <section class="container_body">
+        <div class="container_selectBox">
+            <div>
+                <p>이름</p>
+                <div>
+                    <input class="input_name" type="text" placeholder="이름을 입력해주세요">
+                </div>
+            </div>
+            <div>
+                <p>음/양력</p>
+                <div class="container_button">
+                    <button class="calend_select">양력</button>
+                    <button class="calend_select">음력</button>
+                    <button class="calend_select">음력(윤달)</button>
+                </div>
+            </div> 
+            <div>       
+                <p>생년월일</p>
+                <form class="container_date">
+                    <select name="year" class="select_date">
+                        <option value="none">연</option>
+                    </select>
+                    <select name="month" class="select_date">
+                        <option value="none">월</option>
+                    </select>
+                    <select name="day" class="select_date">
+                        <option value="none">일</option>
+                    </select>
+                </form>
+            </div>
+            <div class="container_result">
+                <button  class="result_box" onclick="window.location.href='result.html';">운세 확인하러 가기</button>
+            </div>
+        </div>
+    </section>
+    <footer class="container_footer"></footer>
+    
+</body>
+</html>

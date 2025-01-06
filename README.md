@@ -67,3 +67,12 @@
 -   작업 내용 요약
 
 <br>
+
+### 4. Light House 
+![Light House](https://github.com/user-attachments/assets/99c3e771-21a4-4839-9418-ffb9ff739fdf)
+<br>
+
+### 5. URL
+https://woorifisa-service-dev-4th.github.io/frontend-1st-fortune-telling/
+
+<br>

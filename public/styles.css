@@ -155,7 +155,7 @@ button {
 
 /* 버튼 호버 효과 */
 button:hover {
-    background: #5e47a2;         /* 호버 시 색상 변화 */
+    background: #5e47a2;    }     /* 호버 시 색상 변화 */
 /* 반응형 디자인 */
 @media (max-width: 768px) {
     .container h1 {
@@ -173,3 +173,4 @@ button:hover {
     button.submit {
         font-size: 0.9rem;
     }
+}

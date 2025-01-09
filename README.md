@@ -1,10 +1,10 @@
 # FrontEnd - First Project
 
 ## 👻 팀 소개
-| ![KJ](https://github.com/user-attachments/assets/fbbbc0f5-e8ff-4ec0-ba0c-ad86616eab8f) | ![BS](https://github.com/user-attachments/assets/8e0fd65a-9995-4904-aa74-c1c094e32f66) | ![KS](https://github.com/user-attachments/assets/a0106927-4536-4146-b9c7-2964951ac851) | ![GB](https://github.com/user-attachments/assets/12aacf85-c6c4-4a86-b123-f94f4ab9cf5a) |
+| ![KJ](https://github.com/user-attachments/assets/fbbbc0f5-e8ff-4ec0-ba0c-ad86616eab8f) | ![BS](https://github.com/user-attachments/assets/8e0fd65a-9995-4904-aa74-c1c094e32f66) | ![GB](https://github.com/user-attachments/assets/12aacf85-c6c4-4a86-b123-f94f4ab9cf5a) |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [김지연](https://github.com/xixeonxim) | [배승혁](https://github.com/devbae1101) | [구본훈](https://github.com/bonun00) | 
-| 팀장<br>JS<br>Figma<br> | 팀원<br>GitHub세팅<br>GitHub관리<br>html | 팀원<br>HTML<br>CSS | 팀원<br>HTML<br>CSS |
+| 팀장<br>JS<br>Figma<br> | 팀원<br>GitHub세팅<br>GitHub관리<br>HTML | 팀원<br>HTML<br>CSS<br>JS|
 <br>
 
 ## 🖥️ 기획- (Figma)

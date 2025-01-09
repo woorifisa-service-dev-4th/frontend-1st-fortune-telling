@@ -32,8 +32,9 @@
 ### CSS
  - style.css
 ### JS
-#server.js<br>
+server.js<br>
 <img width="837" alt="스크린샷 2025-01-09 오후 7 17 00" src="https://github.com/user-attachments/assets/39bf113e-2893-4e42-bc2a-bce2a0317b2d" />
+<br>
 <br>
 chat.js<br>
 <img width="590" alt="스크린샷 2025-01-09 오후 7 16 43" src="https://github.com/user-attachments/assets/010203fa-ce88-43a5-9858-9c5ca729fd5f" />

@@ -32,11 +32,13 @@
 ### CSS
  - style.css
 ### JS
- - script.js
-
+<img width="590" alt="스크린샷 2025-01-09 오후 7 16 43" src="https://github.com/user-attachments/assets/010203fa-ce88-43a5-9858-9c5ca729fd5f" />
+<img width="837" alt="스크린샷 2025-01-09 오후 7 17 00" src="https://github.com/user-attachments/assets/39bf113e-2893-4e42-bc2a-bce2a0317b2d" />
 <br>
 
-## 추후 적용 방안들
+##  ES Lint 적용
+
+https://unmarred-chard-e5a.notion.site/ES-Lint-176b19aee8ba8018af6bdeaa895fa4a6?pvs=4
 
 ## 🚧 프로젝트 룰
 

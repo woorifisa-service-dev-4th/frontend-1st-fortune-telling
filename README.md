@@ -45,6 +45,11 @@ chat.js<br>
 
 ##  ES Lint 적용
 
+
+![ES](https://github.com/user-attachments/assets/5506eeb5-22ee-4a48-b4e3-dc932cf58113)
+
+<br>
+
 https://unmarred-chard-e5a.notion.site/ES-Lint-176b19aee8ba8018af6bdeaa895fa4a6?pvs=4
 
 ## 🚧 프로젝트 룰

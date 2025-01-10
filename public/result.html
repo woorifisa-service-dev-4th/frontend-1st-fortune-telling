@@ -20,11 +20,22 @@
 
     <!-- 본문 -->
     <div class="container_body">
-        <label>총운</label>
+        <label>나의 운세</label>
         <div id="result">
             <h2 id="fortune-title"></h2>
             <p id="fortune-content"></p>
         </div>
+        <script>
+            function copyLink() {
+                const dummy = document.createElement('textarea');
+                dummy.value = window.location.href;
+                document.body.appendChild(dummy);
+                dummy.select();
+                document.execCommand('copy');
+                document.body.removeChild(dummy);
+                alert('링크가 복사되었습니다!');
+              }
+        </script>
 
         <div class="share-section">
             <label>친구에게 공유하기</label>

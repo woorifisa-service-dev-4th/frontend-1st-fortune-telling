@@ -25,16 +25,16 @@
             <input type="text" id="name" name="name" placeholder="이름을 입력해주세요." required>
             
             <!-- 음/양력 -->
-            <label>음/양력</label>
+            <label> 운세 종류 </label>
             <div class = "calendar-selection">
-                <input type="radio" name="calendar" value="solar" id="solar" checked>
-                <label for="solar">양력</label>
+                <input type="radio" name="luck" value="운세" id="solar" checked>
+                <label for="solar">운세</label>
                 
-                <input type="radio" name="calendar" value="lunar" id="lunar">
-                <label for="lunar">음력</label>
+                <input type="radio" name="luck" value="건강운" id="lunar">
+                <label for="lunar">건강운</label>
                 
-                <input type="radio" name="calendar" value="lunar-leap" id="lunar-leap">
-                <label for="lunar-leap">음력(윤달)</label>
+                <input type="radio" name="luck" value="금전운" id="lunar-leap">
+                <label for="lunar-leap">금전운</label>
             </div>
 
             <!-- 생년월일 -->
@@ -44,12 +44,11 @@
                 <select name="year" required>
                     <option value="">년</option>
                     <script>
-                        for (let year = 1926; year <= 2025; year++) {
+                        for (let year = 1980; year <= 2025; year++) {
                             document.write(`<option value="${year}">${year}</option>`);
                         }
                     </script>
                 </select>
-            
                 <!-- 월 -->
                 <select name="month" required>
                     <option value="">월</option>
